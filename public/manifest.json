@@ -1,0 +1,14 @@
+{
+  "name":"ArchBeat","short_name":"ArchBeat",
+  "description":"Player music tanpa iklan",
+  "start_url":"/","display":"standalone",
+  "background_color":"#050509","theme_color":"#050509",
+  "orientation":"portrait",
+  "icons": [
+  {
+    "src": "/icon.png",
+    "sizes": "512x512",
+    "type": "image/png",
+    "purpose": "any maskable"
+  }
+]
